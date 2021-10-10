@@ -1,2 +1,4 @@
 # GTVacPreCa
 Global Trend of Vaccine Preventable Cancer
+
+During the past several decades, several pathogens are recognized as the leading cause of certain type of cancers. This includes Helicobacter pylori, hepatitis B and C virus, human papillomavirus (HPV), HIV are the main etiology of gastric cancer, liver cancer, cervical cancer and Kaposi's Sarcoma. While the list is still growing, vaccine against these infections could not only prevent these infections but also the deadly cancers. To date, evidence have shown that HBV and HPV vaccine have started to play a role in the reduction of liver cancer and cervical cancer in certain population from some countries. However, the evidence is still lacking in a global level. This project therefore aims to collect global level data to quantify the trend of cancers and the impact of universal vaccination programmes on cancers.
